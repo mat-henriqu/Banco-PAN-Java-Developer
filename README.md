@@ -1,4 +1,4 @@
-# Banco-Pan-Java-Developer
+# Banco-PAN-Java-Developer
 Bootcamp with DIO
 ## Links dos certificados adquiridos ao longo do bootcamp
 
