@@ -9,14 +9,6 @@ Bootcamp with DIO
 
 [Introdução ao desenvolvimento moderno de software](https://hermes.digitalinnovation.one/certificates/9E96B8BA.pdf)
 
-[Trabalhando em  equipes Ageis](https://hermes.digitalinnovation.one/certificates/DD5C34B3.pdf)
-
-[Introdução a programação e pensamento computacional](https://hermes.digitalinnovation.one/certificates/F1D2A26F.pdf)
-
-[Como entregar seu desafio de projeto](https://hermes.digitalinnovation.one/certificates/FB929FCF.pdf)
-
-[Criando seu primeiro repositório no GitHub para compartilhar seu progresso](https://hermes.digitalinnovation.one/certificates/DD6C33E8.pdf)
-
 ### Principio de desenvolvimento de software 
 
 [Introdução à Programação e Pensamento Computacional](https://hermes.digitalinnovation.one/certificates/F1D2A26F.pdf)
